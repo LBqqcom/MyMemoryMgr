@@ -4,9 +4,7 @@
 这是用C++实现的一个内存池管理工具
 包含三个文件：
 CMyMemoryMgr.h     内存池管理直接在类里面实现
-
 CMyMemoryMgr.cpp   重载全局函数new和delete操作符
-
 MyMemoryMgrTestMain.cpp    内存池管理的测试例子
 
 使用： (1)把CMyMemoryMgr.h和CMyMemoryMgr.cpp放到自己的工程中
